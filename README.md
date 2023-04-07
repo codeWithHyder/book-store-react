@@ -1,4 +1,4 @@
-# Math-magician
+# Book Store
 
 <a name="readme-top"></a>
 
