@@ -11,11 +11,14 @@ const NewBookEntry = () => (
         id="newbook"
         name="bookname"
       />
-      <select className="author">
-        <option readOnly>Author</option>
-        <option>abc</option>
-        <option>xyz</option>
-      </select>
+      <input
+        className="author"
+        type="text"
+        placeholder="Add author"
+        id="author"
+        name="author"
+      />
+
       <button type="submit" className="submit">Add Book</button>
     </form>
 
