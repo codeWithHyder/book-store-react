@@ -3,7 +3,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
- <h3><b>Book store is a web app, it will be used to add and remove new books to and from the Api with title and author ,any book can be updated or removed .Technologies HTML5, CSS3 ,REACT and Redux will be used for its full functionality</b></h3>
+
+ <h3><b>Book store is a web app, it will be used to add and remove new books and from api with title and author ,any book can be updated or removed .Technologies HTML5, CSS3 ,REACT and Redux will be used for its full functionality</b></h3>
+
+
 
 </div>
 
@@ -73,7 +76,7 @@
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- N/A (will be coming after final approval)
+- N/A (will be applicable after final approval)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
